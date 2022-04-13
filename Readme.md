@@ -15,7 +15,7 @@
 
 - Javascript
 
-- Terminal git, GitHub y GitHub Pages
+- Terminal git, GitHub y GitHub Page
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
